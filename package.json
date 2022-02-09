@@ -39,7 +39,7 @@
     "clean-css": "^4.1.9",
     "ejs": "^2.5.7",
     "html-minifier": "^3.5.8",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "npm-run-all": "^4.1.2",
     "postcss-cli": "^4.1.1",
     "prettier": "^1.15.2",
